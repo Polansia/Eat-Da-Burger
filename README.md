@@ -1,6 +1,3 @@
-# Burger
-[Link to deployed site](https://burgers-walterjoy.herokuapp.com/)
-
 # Table of Contents
 - [Description](#description)
 - [Installation](#installation)
